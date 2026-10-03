@@ -22,6 +22,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Problem | Description | Link |
 |---|---|---|
 | Gmail Spam Filter |  | https://www.tensortonic.com/ml-design/spam-filter |
+| Implement Dot Product | Implement the dot product of equal-length numeric vectors by summing element-wise products without library shortcuts. | https://www.tensortonic.com/problems/dot-product |
 | Implement Scaled Dot-Product Attention | Implement batched scaled dot-product attention for self- and cross-attention with optional masks and stable softmax. | https://www.tensortonic.com/problems/inference-scaled-dot-product-attention |
 | Logistic Regression Training Loop | Train binary logistic regression in NumPy using sigmoid probabilities, gradient descent, and learned weight and bias parameters. | https://www.tensortonic.com/problems/logistic-regression-training |
 | Averaged Perceptron | Implement an averaged perceptron for binary classification with online mistake updates and mean weights across training steps. | https://www.tensortonic.com/problems/ml-averaged-perceptron |
